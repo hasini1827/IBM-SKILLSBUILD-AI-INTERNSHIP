@@ -1,0 +1,13 @@
+# Core Streamlit
+streamlit==1.28.1
+
+# API and Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Text processing
+nltk==3.8.1
+numpy==1.26.2
+
+# Configuration
+toml==0.10.2
